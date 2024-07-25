@@ -10,3 +10,6 @@ Data Provinsi, Kota/Kabupaten dan Kecamatan untuk RajaOngkir
 
 ## Change Log
 - memisahkan data provinsi/kota/kabupaten/kecamatan [240725]
+
+## Referensi
+- [Dokumentasi API RajaOngkir](https://rajaongkir.com/dokumentasi)
