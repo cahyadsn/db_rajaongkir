@@ -8,6 +8,9 @@ Data Provinsi, Kota/Kabupaten dan Kecamatan untuk RajaOngkir
 - *tb_ro_cities* : data daftar kode rajaongkir untuk kota/kabupaten
 - *tb_ro_subdistrics* : data daftar kode rajaongkir untuk kecamatan
 
+## To Do
+- membuat contoh aplikasi pemakaian db_rajaongkir dengan menghubungkannya ke API rajaongkir 
+
 ## Change Log
 - memisahkan data provinsi/kota/kabupaten/kecamatan [240725]
 
